@@ -7,7 +7,6 @@ let outputDay = 0;
 
 switch(inputDay){
     case 'zaterdag':
-        outputDay = 'weekenddag';
     case 'zondag':
         outputDay = 'weekenddag';
         break;
